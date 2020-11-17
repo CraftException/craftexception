@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning C and Assembler
+- 🌱 I’m currently learning Dart
 - 📫 How to reach me: 
   - Discord: CraftException#0001
   - Telegramm: [Link](https://t.me/craftexception)
