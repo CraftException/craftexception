@@ -5,9 +5,9 @@
 
 ---
 
+- 🌱 I’m currently learning Dart
 - 💻 I'm coding for 4 years
 - ⚡ I started developing with Minecraft Plugins in the Java programming language
-- 🌱 I’m currently learning Dart
 - 🏢 I'm currently working at [IntelliBoard](https://intelli-board.eu) and [lnkdto.link](https://lnkdto.link)
 - 📫 How to reach me: 
   - Discord: CraftException#0001
